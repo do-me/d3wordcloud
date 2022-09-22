@@ -4,7 +4,7 @@ A simple Jupyter (Lab/Notebook) port of Jason Davies d3 JS wordcloud generator h
 ![image](https://user-images.githubusercontent.com/47481567/191727287-f7ff45ea-2ded-4dcd-a8fb-435bc2183d42.png)
 
 ## Installation 
-`pip install d3wordcloud==0.0.1` 
+`pip install d3wordcloud` 
 
 ## Usage 
 Displays the interactive SVG wordcloud right in your Jupyter Notebook (or Jupyter Lab).
