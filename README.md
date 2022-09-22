@@ -11,7 +11,7 @@ Displays the interactive SVG wordcloud right in your Jupyter Notebook (or Jupyte
 import d3wordcloud as d3wc
 d3wc.display_wordcloud(sample_data, show_settings=False)
 ```
-`sample_data` is a space-separated string, e.g. `energy fossil fuel EU`
+`sample_data` is a space-separated string, e.g. `"energy fossil fuel EU"`
 
 `show_settings` shows the original settings for interactive control in your notebook, just like in the [original version](https://www.jasondavies.com/wordcloud/)
 
