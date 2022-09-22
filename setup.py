@@ -27,7 +27,7 @@ setup(
     python_requires='>=3',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Dominik Weckmüller,
+    author="Dominik Weckmüller",
     author_email="dominik@geo.rocks",
     url="https://github.com/do-me/d3wordcloud"
 )
