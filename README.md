@@ -1,5 +1,5 @@
 # d3wordcloud
-A simple Jupyter (Lab/Notebook) port of Jason Davies d3 JS wordcloud generator https://www.jasondavies.com/wordcloud/
+A simple Jupyter (Lab/Notebook) wrapper of Jason Davies d3 JS wordcloud generator https://www.jasondavies.com/wordcloud/
 
 ![image](https://user-images.githubusercontent.com/47481567/191727287-f7ff45ea-2ded-4dcd-a8fb-435bc2183d42.png)
 
