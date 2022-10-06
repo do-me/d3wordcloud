@@ -36,7 +36,7 @@ Uninstalling is as easy as
 `pip uninstall d3wordcloud-0.0.1-py3-none-any.whl`
 
 ## Troubleshooting
-If you are using a virtual env (like conda env) and the wordcloud SVG is not showing it is probably related to a [Jupyter bug](https://github.com/jupyter-widgets/ipywidgets/issues/2257). A possible workaround is provided in the linked issue.
+If you are using a virtual env (like conda env) and the wordcloud SVG is not showing it is probably related to a [Jupyter bug](https://github.com/jupyter-widgets/ipywidgets/issues/2257). A possible workaround is [working in just one notebook at a time](https://github.com/jupyter-widgets/ipywidgets/issues/2257#issuecomment-1270112153)
 
 ## To Do
 - Port all the settings for full control in Python. 
